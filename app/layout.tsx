@@ -34,6 +34,8 @@ export default function RootLayout({
       <head>
         <link rel="manifest" href="/manifest.json" />
         <meta name="theme-color" content="#4F46E5" />
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="apple-touch-icon" href="/icon-runa.png" />
       </head>
       <body className={`${nunito.className} antialiased`}>
         {children}

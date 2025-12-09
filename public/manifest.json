@@ -9,13 +9,13 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icon-light-32x32.png",
-      "sizes": "32x32",
+      "src": "icon-runa.png",
+      "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "apple-icon.png",
-      "sizes": "180x180",
+      "src": "icon-runa.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
